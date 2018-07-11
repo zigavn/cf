@@ -1,0 +1,1 @@
+{"myip":"zigavn.com","serveripaddress":"ws://zigavn.com:18090/","newsip":"zigavn.com"}
