@@ -1,1 +1,1 @@
-{"myip":"config.zigavn.com","serveripaddress":"ws://171.244.0.164:18090","newsip":"config.zigavn.com"}
+{"myip":"config.zigavn.com","serveripaddress":"ws://171.244.5.98:18090","newsip":"config.zigavn.com"}
