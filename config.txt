@@ -1,1 +1,1 @@
-{"myip":"config.zigavn.com","serveripaddress":"ws://171.244.5.98:18090","newsip":"config.zigavn.com","secure_server_ip_address":"wss://sv.ziga.games/ws/"}
+{"myip":"config.zigavn.com","serveripaddress":"ws://171.244.5.98:18090","newsip":"config.zigavn.com","secure_server_ip_address":"ws://config.zigavn.com:18090"}
